@@ -2,6 +2,8 @@
 
 A browser-based Pokémon team roulette for Nuzlocke runs, challenge play, and random team generation.
 
+![Pokemon Roulette Screenshot](assets/itch-cover-630x500.png)
+
 ## Live Website
 
 https://pokemonroulette.com/
