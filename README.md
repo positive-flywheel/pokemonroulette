@@ -8,6 +8,13 @@ A browser-based Pokémon team roulette for Nuzlocke runs, challenge play, and ra
 
 https://pokemonroulette.com/
 
+## Project Status
+
+✅ Live and actively maintained.
+
+This repository is a public showcase page for Pokemon Roulette.  
+The production codebase is maintained privately.
+
 ## What It Does
 
 Pokemon Roulette helps players generate random Pokémon choices for challenge runs and team-building scenarios.
